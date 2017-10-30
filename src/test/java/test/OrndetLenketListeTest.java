@@ -1,4 +1,4 @@
-package test.java.org.SteinKo;
+package test;
 
 import static org.junit.Assert.*;
 
@@ -7,12 +7,12 @@ import java.util.Iterator;
 import org.junit.Before;
 import org.junit.Test;
 
-import main.java.OrdnetLenkeliste;
+import main.OrdnetLenkeliste;
 
 
 
 public class OrndetLenketListeTest {
-	private main.java.Liste<String>  liste;
+	private main.Liste<String>  liste;
 	@Before
 	public void setUp()
 	{

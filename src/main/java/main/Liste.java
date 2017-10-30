@@ -1,4 +1,4 @@
-package main.java;
+package main;
 
 public interface Liste<T> extends Iterable<T> {
 /**

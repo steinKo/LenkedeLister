@@ -1,4 +1,4 @@
-package test.java.org.SteinKo;
+package test;
 
 import static org.junit.Assert.*;
 
@@ -8,8 +8,8 @@ import java.util.NoSuchElementException;
 import org.junit.Before;
 import org.junit.Test;
 
-import main.java.StatiskTabell;
-import main.java.Tabell;
+import main.StatiskTabell;
+import main.Tabell;
 
 
 

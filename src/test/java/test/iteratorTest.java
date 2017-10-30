@@ -1,4 +1,4 @@
-package test.java.org.SteinKo;
+package test;
 
 
 import static org.junit.Assert.*;
@@ -9,10 +9,10 @@ import java.util.NoSuchElementException;
 import org.junit.Before;
 import org.junit.Test;
 
-import main.java.Koe;
-import main.java.Liste;
-import main.java.ListeIterator;
-import main.java.OrdnetLenkeliste;
+import main.Koe;
+import main.Liste;
+import main.ListeIterator;
+import main.OrdnetLenkeliste;
 
 
 

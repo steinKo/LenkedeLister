@@ -1,4 +1,4 @@
-package test.java.org.SteinKo;
+package test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -8,9 +8,9 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Before;
 import org.junit.Test;
 
-import main.java.Element;
-import main.java.Koe;
-import main.java.Liste;
+import main.Element;
+import main.Koe;
+import main.Liste;
 
 
 

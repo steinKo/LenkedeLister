@@ -1,13 +1,13 @@
-package test.java.org.SteinKo;
+package test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import main.java.Element;
-import main.java.Liste;
-import main.java.Stabel;
+import main.Element;
+import main.Liste;
+import main.Stabel;
 
 
 public class StabelTest {

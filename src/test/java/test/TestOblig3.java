@@ -1,5 +1,11 @@
-package main.java;
+package test;
 import java.util.Iterator;
+
+import main.FullTabellUnntak;
+import main.Liste;
+import main.Tabell;
+import main.UgyldigPlassUnntak;
+
 import java.lang.reflect.InvocationTargetException;
 
 /**

@@ -1,15 +1,15 @@
-package org.SteinKo;
+package test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import main.java.Element;
-import main.java.FullTabellUnntak;
-import main.java.StatiskTabell;
-import main.java.Tabell;
-import main.java.UgyldigPlassUnntak;
+import main.Element;
+import main.FullTabellUnntak;
+import main.StatiskTabell;
+import main.Tabell;
+import main.UgyldigPlassUnntak;
 
 public class StatiskTabellTest {
 	
