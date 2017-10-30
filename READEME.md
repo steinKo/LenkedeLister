@@ -1,1 +1,1 @@
-Linked list library whit unit tests
+Bibliotek for Lenkedelister.
